@@ -1,0 +1,26 @@
+.h1 {
+    color: red;
+    user-select: none;
+
+}
+
+.h2 {
+    color: blue;
+}
+
+.h3 {
+    color: green;
+}
+
+.h4 {
+    color: yellow;
+}
+
+.h5 {
+    color: orange;
+}
+
+.h6 {
+    color:pink;
+}
+
